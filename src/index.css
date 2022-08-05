@@ -1,0 +1,18 @@
+.dashboard-button{
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  border-radius: 0;
+  background-color: #162c5d;
+  border-color: #162c5d;
+  padding: 13px 20px;
+}
+
+.dashboard-button i {
+  padding-right: 12px;
+  font-size: 18px;
+}
